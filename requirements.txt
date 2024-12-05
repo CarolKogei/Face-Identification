@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pandas
+virtualenv
+beautifulsoup4
+selenium
