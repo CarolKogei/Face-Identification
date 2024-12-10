@@ -4,3 +4,4 @@ pandas
 virtualenv
 beautifulsoup4
 selenium
+scikit-learn
