@@ -5,3 +5,4 @@ virtualenv
 beautifulsoup4
 selenium
 scikit-learn
+tensorflow --no-cache-dir
