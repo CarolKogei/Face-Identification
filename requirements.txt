@@ -2,7 +2,5 @@ opencv-python
 numpy
 pandas
 virtualenv
-beautifulsoup4
-selenium
 scikit-learn
-tensorflow --no-cache-dir
+tensorflow==2.12.0
